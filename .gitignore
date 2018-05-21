@@ -1,5 +1,6 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 metro-cache-b96e7a8a7afd1888ee2f605d98f698119184c6a9
+metro-cache-*
 # expo
 .expo/
 
